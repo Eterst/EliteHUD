@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) 2023 Jonder Hernández Gutiérrez&#10;&#10;This Minecraft plugin and its source code are subject to the terms of the GNU General Public License version 3.0 (&quot;GPLv3&quot;) of the Free Software Foundation, either in its original version or any later version published by the Free Software Foundation.&#10;&#10;This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.&#10;&#10;You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.&#10;&#10;The source code for this plugin is available at https://github.com/Eterst/EliteHUD.&#10;&#10;If you have any questions about the license or use of this plugin, please contact the copyright holder at mjonder09@gmail.com." />
+    <option name="myName" value="GNU" />
+  </copyright>
+</component>
